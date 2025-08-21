@@ -1,6 +1,6 @@
 '''
 
-    Game Title: Solitare 
+    Game Title: Solitaire 
     Created By: Zachary Starr
     Created On: 07/31/2025
 
