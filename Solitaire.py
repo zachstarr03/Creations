@@ -15,7 +15,7 @@ import arcade
 
 # Screen sizing and title
 SCREEN_WIDTH = 1050
-SCREEN_HEIGHT = 850
+SCREEN_HEIGHT = 900
 SCREEN_TITLE = "Solitaire, by Zach"
 
 # Constants for scaling the size of the cards
