@@ -14,16 +14,16 @@ import time
 import arcade
 
 # Screen sizing and title
-SCREEN_WIDTH = 900
-SCREEN_HEIGHT = 700
+SCREEN_WIDTH = 1050
+SCREEN_HEIGHT = 850
 SCREEN_TITLE = "Solitaire, by Zach"
 
 # Constants for scaling the size of the cards
-CARD_SCALE = 0.5
+CARD_SCALE = 0.6
 
 # Card dimensions after scaling
-CARD_WIDTH = 100 * CARD_SCALE
-CARD_HEIGHT = 150 * CARD_SCALE
+CARD_WIDTH = 200 * CARD_SCALE
+CARD_HEIGHT = 200 * CARD_SCALE
 
 # Mat size where the cards will be placed
 MAT_PERCENTAGE_OVERSIZE = 1.25
@@ -92,7 +92,7 @@ class Solitaire(arcade.Window):
 
         # Draw the game elements here
         exit = arcade.Text("Press 'q' to quit",
-                         780,
+                         925,
                          10,
                          arcade.color.WHITE,
                          14)
