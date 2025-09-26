@@ -8,8 +8,6 @@
 
     Main python library used for this program will be the 'arcade' library
 
-    zzzzzzzzzzzzzzzzzzzzzzzz
-
 '''
 
 import time
